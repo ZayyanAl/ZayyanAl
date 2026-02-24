@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm InstaCodex</h1>
-<h3 align="center">Sang Perikod Handal Dari Indonesia</h3>
+<h1 align="center">Hi 👋, I'm ZayCodx</h1>
+<h3 align="center">Developmen Pemula</h3>
 <p align="center">
-  <a href="https://github.com/InstaCodex/"><img src="https://img.shields.io/badge/-Github-FFA116?style=for-the-badge&logo=Github&logoColor=black"/> </a>
+  <a href="https://github.com/ZayyanAl/"><img src="https://img.shields.io/badge/-Github-FFA116?style=for-the-badge&logo=Github&logoColor=black"/> </a>
 </p>
 
 <img src="https://raw.githubusercontent.com/InstaCodex/InstaCodex/main/Assets/wibukamu.gif" alt="Profile Image" width="100%">
